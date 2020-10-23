@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "565283519383",
+    "firebase_url": "https://savelives-534d3.firebaseio.com",
+    "project_id": "savelives-534d3",
+    "storage_bucket": "savelives-534d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565283519383:android:86f86b152fb7500b",
+        "android_client_info": {
+          "package_name": "com.karim.savelives"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "565283519383-0l5cjcvgrmlj7rotci3vgv7ns363s5et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.karim.savelives",
+            "certificate_hash": "bddb19970c20ec1b5ac4971f8a7c54f437c34771"
+          }
+        },
+        {
+          "client_id": "565283519383-emq96bdpask5e5v2dnhu6a29mjm5v0a2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHNxU8qaRoYDCFhSAmS-5ORWIcDUBMEmg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "565283519383-emq96bdpask5e5v2dnhu6a29mjm5v0a2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Save lives</string>
+    <string name="logo">logo</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="sign_in">sign in</string>
+    <string name="register">register</string>
+    <string name="forgot_password">forgot password</string>
+    <string name="splash">splash</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="email">Email</string>
+    <string name="emailcon">Email</string>
+    <string name="RedButton">RedButton</string>
+    <string name="BloodRequest">Request Blood</string>
+    <string name="BloodDonate">Blood Donate</string>
+    <string name="About">About</string>
+    <string name="Profile">Profile</string>
+    <string name="Settings">Settings</string>
+    <string name="Logout">Log out</string>
+    <string name="version">v 1.0</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="emailtoforget">Enter Your Email</string>
+    <string name="reset">Reset</string>
+    <string name="blood">Blood Type</string>
+</resources>

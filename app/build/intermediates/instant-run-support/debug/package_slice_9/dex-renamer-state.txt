@@ -1,0 +1,4 @@
+#Fri Apr 20 21:42:57 EET 2018
+base.0=C\:\\Users\\Sadara1\\AndroidStudioProjects\\New save life\\Savelives\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\66
+path.0=classes.dex
+renamed.0=classes.dex
